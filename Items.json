@@ -1,0 +1,662 @@
+[
+    {
+        "title": "10 Karat Gold",
+        "sellValue": "$300"
+    },
+    {
+        "title": "12 Karat Gold",
+        "sellValue": "$500"
+    },
+    {
+        "title": "18 Karat Gold",
+        "sellValue": "$800"
+    },
+    {
+        "title": "24 Karat Gold",
+        "sellValue": "$1,200"
+    },
+    {
+        "title": "8 Karat Gold",
+        "sellValue": "$160"
+    },
+    {
+        "title": "Acetic Acid",
+        "sellValue": "$14.5"
+    },
+    {
+        "title": "Alumina",
+        "sellValue": "$100"
+    },
+    {
+        "title": "Alumina Dust",
+        "sellValue": "$90"
+    },
+    {
+        "title": "Aluminium Ingot",
+        "sellValue": "$800"
+    },
+    {
+        "title": "Bauxite Residue",
+        "sellValue": "$50"
+    },
+    {
+        "title": "Black Dye",
+        "sellValue": "$8.7"
+    },
+    {
+        "title": "Bottle",
+        "sellValue": "$72.50"
+    },
+    {
+        "title": "Brass Ingot",
+        "sellValue": "$80"
+    },
+    {
+        "title": "Cat",
+        "sellValue": "$20,000"
+    },
+    {
+        "title": "Chair",
+        "sellValue": "$1029.50"
+    },
+    {
+        "title": "Charged Lithium-Ion Battery",
+        "sellValue": "$4,000"
+    },
+    {
+        "title": "Cheap Water Bottle",
+        "sellValue": "$130.50"
+    },
+    {
+        "title": "Chlorine",
+        "sellValue": "$0.2"
+    },
+    {
+        "title": "Chunk Plank",
+        "sellValue": "$3.5"
+    },
+    {
+        "title": "Coal",
+        "sellValue": "$5.2"
+    },
+    {
+        "title": "Coke Fuel",
+        "sellValue": "$18.0"
+    },
+    {
+        "title": "Concentrated Salt Solution",
+        "sellValue": "$2"
+    },
+    {
+        "title": "Condensate",
+        "sellValue": "$0.1"
+    },
+    {
+        "title": "Copper Drill Head",
+        "sellValue": "$20,000"
+    },
+    {
+        "title": "Copper Ingot",
+        "sellValue": "$26.7"
+    },
+    {
+        "title": "Copper Mix",
+        "sellValue": "$3"
+    },
+    {
+        "title": "Copper Plate",
+        "sellValue": "$32.9"
+    },
+    {
+        "title": "Copper Powder",
+        "sellValue": "$7"
+    },
+    {
+        "title": "Copper Wire",
+        "sellValue": "$7.3"
+    },
+    {
+        "title": "Crankshafts",
+        "sellValue": "$754"
+    },
+    {
+        "title": "Crude Diesel",
+        "sellValue": "$13.1"
+    },
+    {
+        "title": "Crude Oil",
+        "sellValue": "$11.6"
+    },
+    {
+        "title": "Crushed Bauxite",
+        "sellValue": "$75.0"
+    },
+    {
+        "title": "Cut Oak Log",
+        "sellValue": "$3.5"
+    },
+    {
+        "title": "Deep Earth Fragment",
+        "sellValue": "$200"
+    },
+    {
+        "title": "Diesel",
+        "sellValue": "$30.5"
+    },
+    {
+        "title": "Dirty Lithium Sulfate",
+        "sellValue": "$60"
+    },
+    {
+        "title": "Distilled Water",
+        "sellValue": "$1"
+    },
+    {
+        "title": "Dynamite",
+        "sellValue": "$90"
+    },
+    {
+        "title": "Electric Motor",
+        "sellValue": "$4,500"
+    },
+    {
+        "title": "Electromagnet",
+        "sellValue": "$950"
+    },
+    {
+        "title": "Ethanol",
+        "sellValue": "$5.80"
+    },
+    {
+        "title": "Ethylene",
+        "sellValue": "$14.50"
+    },
+    {
+        "title": "Exhaust",
+        "sellValue": "$-0.5"
+    },
+    {
+        "title": "Ferroaluminium Alloy Ingot",
+        "sellValue": "$2,500"
+    },
+    {
+        "title": "Ferroaluminium Magnet",
+        "sellValue": "$8,500"
+    },
+    {
+        "title": "Filter",
+        "sellValue": "$20"
+    },
+    {
+        "title": "Filtered Water",
+        "sellValue": "$0.6"
+    },
+    {
+        "title": "Fracking Oil",
+        "sellValue": "$1"
+    },
+    {
+        "title": "Galvanized Steel",
+        "sellValue": "$123"
+    },
+    {
+        "title": "Gasoline",
+        "sellValue": "$40.6"
+    },
+    {
+        "title": "GasolineE10",
+        "sellValue": "$57"
+    },
+    {
+        "title": "Gear",
+        "sellValue": "$98.60"
+    },
+    {
+        "title": "Gearbox",
+        "sellValue": "$2,552"
+    },
+    {
+        "title": "Glass",
+        "sellValue": "$80"
+    },
+    {
+        "title": "Gold Ingot",
+        "sellValue": "$4,250"
+    },
+    {
+        "title": "Gold Wire",
+        "sellValue": "$200"
+    },
+    {
+        "title": "Graphite-Iron Electrode",
+        "sellValue": "$80"
+    },
+    {
+        "title": "Graphite-Zinc Electrode",
+        "sellValue": "$60"
+    },
+    {
+        "title": "Gravel",
+        "sellValue": "$3"
+    },
+    {
+        "title": "Gunpowder",
+        "sellValue": "$70"
+    },
+    {
+        "title": "Heavy Oil",
+        "sellValue": "$5"
+    },
+    {
+        "title": "High Pressure Steam",
+        "sellValue": "$0.03"
+    },
+    {
+        "title": "Hot Crude Oil",
+        "sellValue": "$0.1"
+    },
+    {
+        "title": "Hydrochloric Acid",
+        "sellValue": "$80"
+    },
+    {
+        "title": "Hydrogen",
+        "sellValue": "$0.02"
+    },
+    {
+        "title": "Hydrogen Sulfide",
+        "sellValue": "$8"
+    },
+    {
+        "title": "Insulated Wire",
+        "sellValue": "$40"
+    },
+    {
+        "title": "Iron Coil",
+        "sellValue": "$43.85"
+    },
+    {
+        "title": "Iron Drill Head",
+        "sellValue": "$145,000"
+    },
+    {
+        "title": "Iron Ingot",
+        "sellValue": "$65.54"
+    },
+    {
+        "title": "Iron Mix",
+        "sellValue": "$10"
+    },
+    {
+        "title": "Iron Plate",
+        "sellValue": "$70.2"
+    },
+    {
+        "title": "Iron Plate&lt;sup&gt;2&lt;\/sup&gt;",
+        "sellValue": "$295.8"
+    },
+    {
+        "title": "Iron Powder",
+        "sellValue": "$15"
+    },
+    {
+        "title": "Lead Ingot",
+        "sellValue": "$25"
+    },
+    {
+        "title": "Leaded Gasoline",
+        "sellValue": "$112"
+    },
+    {
+        "title": "Light Oil",
+        "sellValue": "$7"
+    },
+    {
+        "title": "Liquid Aluminium",
+        "sellValue": "$200"
+    },
+    {
+        "title": "Liquid Brass",
+        "sellValue": "$30"
+    },
+    {
+        "title": "Liquid Copper",
+        "sellValue": "$7.5"
+    },
+    {
+        "title": "Liquid Glass",
+        "sellValue": "$10"
+    },
+    {
+        "title": "Liquid Gold",
+        "sellValue": "$1,000"
+    },
+    {
+        "title": "Liquid Iron",
+        "sellValue": "$23.20"
+    },
+    {
+        "title": "Liquid Lead",
+        "sellValue": "$5"
+    },
+    {
+        "title": "Liquid Sulfur",
+        "sellValue": "$12"
+    },
+    {
+        "title": "Lithium Battery Pack",
+        "sellValue": "$85,000"
+    },
+    {
+        "title": "Lithium Brine",
+        "sellValue": "$25"
+    },
+    {
+        "title": "Lithium Carbonate",
+        "sellValue": "$200"
+    },
+    {
+        "title": "Lithium Ore",
+        "sellValue": "$10"
+    },
+    {
+        "title": "Lithium Sulfate",
+        "sellValue": "$100"
+    },
+    {
+        "title": "LNG",
+        "sellValue": "$174"
+    },
+    {
+        "title": "Logic Plate",
+        "sellValue": "$65"
+    },
+    {
+        "title": "Low Pressure Steam",
+        "sellValue": "$0.03"
+    },
+    {
+        "title": "Machine Oil",
+        "sellValue": 29
+    },
+    {
+        "title": "Medium Earth Fragment",
+        "sellValue": "$120"
+    },
+    {
+        "title": "MEG",
+        "sellValue": "$2.90"
+    },
+    {
+        "title": "Microchip Scrap",
+        "sellValue": "$0"
+    },
+    {
+        "title": "Molten Ferroaluminium Alloy",
+        "sellValue": "$1,100"
+    },
+    {
+        "title": "Molten Purple Gold",
+        "sellValue": "$580"
+    },
+    {
+        "title": "Nails",
+        "sellValue": "$2.9"
+    },
+    {
+        "title": "Naphta",
+        "sellValue": "$15.6"
+    },
+    {
+        "title": "Oak Log",
+        "sellValue": "$5.8"
+    },
+    {
+        "title": "Oil Bottle",
+        "sellValue": "$208.8"
+    },
+    {
+        "title": "Oxygen",
+        "sellValue": "$0.01"
+    },
+    {
+        "title": "Packed Present",
+        "sellValue": "1 Present\/u\n$300 After Event"
+    },
+    {
+        "title": "Paper",
+        "sellValue": "$14.5"
+    },
+    {
+        "title": "Paraxylene",
+        "sellValue": "$14.50"
+    },
+    {
+        "title": "Plank&lt;sup&gt;2&lt;\/sup&gt;",
+        "sellValue": "$40.6"
+    },
+    {
+        "title": "Planks",
+        "sellValue": "$13.1"
+    },
+    {
+        "title": "Plastic Casing",
+        "sellValue": "$145"
+    },
+    {
+        "title": "Plastic Pellets",
+        "sellValue": "$0.87"
+    },
+    {
+        "title": "Poor Quality Diesel",
+        "sellValue": "$21.8"
+    },
+    {
+        "title": "Powdered Tungsten",
+        "sellValue": "$150"
+    },
+    {
+        "title": "Powdered Tungsten Carbide",
+        "sellValue": "$210"
+    },
+    {
+        "title": "Present Box",
+        "sellValue": "$174"
+    },
+    {
+        "title": "PTA",
+        "sellValue": "$2.90"
+    },
+    {
+        "title": "Purple Gold Ingot",
+        "sellValue": "$20,000"
+    },
+    {
+        "title": "Raw Copper",
+        "sellValue": "$5.51"
+    },
+    {
+        "title": "Raw Gas",
+        "sellValue": "$0.03"
+    },
+    {
+        "title": "Raw Iron",
+        "sellValue": "$5.80"
+    },
+    {
+        "title": "Raw Lead",
+        "sellValue": "$10"
+    },
+    {
+        "title": "Raw Zinc",
+        "sellValue": "$5"
+    },
+    {
+        "title": "Refined Diesel",
+        "sellValue": "$40.60"
+    },
+    {
+        "title": "Refined Diesel Bottle",
+        "sellValue": "$449.5"
+    },
+    {
+        "title": "Refined Gas",
+        "sellValue": "$0.3"
+    },
+    {
+        "title": "Residue",
+        "sellValue": "$-5.8"
+    },
+    {
+        "title": "Residue Bottle",
+        "sellValue": "$0"
+    },
+    {
+        "title": "Rich Soil",
+        "sellValue": "$5"
+    },
+    {
+        "title": "Rock",
+        "sellValue": "$4"
+    },
+    {
+        "title": "Rubber",
+        "sellValue": "$19.4"
+    },
+    {
+        "title": "Sand",
+        "sellValue": "$5"
+    },
+    {
+        "title": "Semiconductor",
+        "sellValue": "$650"
+    },
+    {
+        "title": "Shallow Earth Fragment",
+        "sellValue": "$30"
+    },
+    {
+        "title": "Silicon",
+        "sellValue": "$50"
+    },
+    {
+        "title": "Sodium Carbonate",
+        "sellValue": "$8"
+    },
+    {
+        "title": "Sodium Hydroxide Solution",
+        "sellValue": "$10"
+    },
+    {
+        "title": "Soil",
+        "sellValue": "$2"
+    },
+    {
+        "title": "Steam",
+        "sellValue": "$0.03"
+    },
+    {
+        "title": "Steel Coil",
+        "sellValue": "$75"
+    },
+    {
+        "title": "Steel Drill Head",
+        "sellValue": "$190,000"
+    },
+    {
+        "title": "Steel Ingot",
+        "sellValue": "$48.72"
+    },
+    {
+        "title": "Steel Plate",
+        "sellValue": "$89.9"
+    },
+    {
+        "title": "Steel Rod",
+        "sellValue": "$92.80"
+    },
+    {
+        "title": "Sulfur",
+        "sellValue": "$20"
+    },
+    {
+        "title": "Sulfur Dioxide",
+        "sellValue": "$2"
+    },
+    {
+        "title": "Sulfur Trioxide",
+        "sellValue": "$2.5"
+    },
+    {
+        "title": "Sulfuric Acid",
+        "sellValue": "$65"
+    },
+    {
+        "title": "Table Salt",
+        "sellValue": "$4"
+    },
+    {
+        "title": "Tetraethyllead",
+        "sellValue": "$21"
+    },
+    {
+        "title": "Tire",
+        "sellValue": "$2,000"
+    },
+    {
+        "title": "Tire Rim",
+        "sellValue": "$1,800"
+    },
+    {
+        "title": "Toy",
+        "sellValue": "$101.5"
+    },
+    {
+        "title": "Treated Raw Copper",
+        "sellValue": "$6"
+    },
+    {
+        "title": "Treated Raw Iron",
+        "sellValue": "$8"
+    },
+    {
+        "title": "Treated Rock",
+        "sellValue": "$15"
+    },
+    {
+        "title": "Tungsten Carbide Plate",
+        "sellValue": "$600"
+    },
+    {
+        "title": "Tungsten Carbide&lt;br&gt;Drill Head",
+        "sellValue": "$800,000"
+    },
+    {
+        "title": "Uncharged Lithium-Ion Battery",
+        "sellValue": "2,000"
+    },
+    {
+        "title": "Uranium",
+        "sellValue": "$8,000"
+    },
+    {
+        "title": "Water",
+        "sellValue": "$0.2"
+    },
+    {
+        "title": "Water Bottle",
+        "sellValue": "$174"
+    },
+    {
+        "title": "Water-Free Gas",
+        "sellValue": "$0.14"
+    },
+    {
+        "title": "Zinc",
+        "sellValue": "$20"
+    },
+    {
+        "title": "Zinc Sulfate",
+        "sellValue": "$10"
+    }
+]

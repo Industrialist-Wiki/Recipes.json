@@ -1,0 +1,1752 @@
+[
+    {
+        "Title": "3 Turbine Wind",
+        "Cost": 250000,
+        "Pollution": "0%\/h",
+        "Size": "4x4",
+        "Tier": 3
+    },
+    {
+        "Title": "4 Panel Solar",
+        "Cost": 500000,
+        "Pollution": "0%\/h",
+        "Size": "4x2",
+        "Tier": 4
+    },
+    {
+        "Title": "Advanced Assembler",
+        "Cost": 150000,
+        "Pollution": "0%\/h",
+        "Size": "12x6",
+        "Tier": 4
+    },
+    {
+        "Title": "Advanced Coal Drill",
+        "Cost": 1000,
+        "Pollution": "0%\/h",
+        "Size": "10x4",
+        "Tier": 2
+    },
+    {
+        "Title": "Advanced Copper Drill",
+        "Cost": 520,
+        "Pollution": "0%\/h",
+        "Size": "8x4",
+        "Tier": 2
+    },
+    {
+        "Title": "Advanced Diesel Refinery",
+        "Cost": 10000,
+        "Pollution": "0%\/h",
+        "Size": "14x14",
+        "Tier": 2
+    },
+    {
+        "Title": "Advanced Electric Furnace",
+        "Cost": 100000,
+        "Pollution": "0.32%\/h",
+        "Size": "9x9",
+        "Tier": 2
+    },
+    {
+        "Title": "Advanced MV Pole",
+        "Cost": 300,
+        "Pollution": "0%\/h",
+        "Size": "4x2",
+        "Tier": 2
+    },
+    {
+        "Title": "Advanced Oil Seperator",
+        "Cost": 1250000,
+        "Pollution": "0.324%\/h",
+        "Size": "22x22",
+        "Tier": 3
+    },
+    {
+        "Title": "Advanced Pollution Meter",
+        "Cost": 100,
+        "Pollution": "0%\/h",
+        "Size": "6x4",
+        "Tier": 1
+    },
+    {
+        "Title": "Advanced Power Rate Meter",
+        "Cost": 7000,
+        "Pollution": "0%\/h",
+        "Size": "4x2",
+        "Tier": 3
+    },
+    {
+        "Title": "Advanced Present Packing Machine",
+        "Cost": 7500,
+        "Pollution": "0%\/hr",
+        "Size": "20x12",
+        "Tier": 1
+    },
+    {
+        "Title": "Alloyer",
+        "Cost": 999999,
+        "Pollution": "0.324%\/hr",
+        "Size": "10x6",
+        "Tier": 3
+    },
+    {
+        "Title": "American Oil Rig",
+        "Cost": 1200,
+        "Pollution": "0.0216%\/h",
+        "Size": "8x2",
+        "Tier": 2
+    },
+    {
+        "Title": "AND Gate",
+        "Cost": 2500,
+        "Pollution": "0%\/hr",
+        "Size": "2x2",
+        "Tier": 1
+    },
+    {
+        "Title": "Atmospheric Distillation Plant",
+        "Cost": 1000000,
+        "Pollution": "6.48%\/hr",
+        "Size": "16x16",
+        "Tier": 3
+    },
+    {
+        "Title": "Battery Charger",
+        "Cost": 100000,
+        "Pollution": "0%\/hr",
+        "Size": "4x2",
+        "Tier": 3
+    },
+    {
+        "Title": "Big Decoration",
+        "Cost": 40,
+        "Pollution": "0%\/h",
+        "Size": "4x4",
+        "Tier": 1
+    },
+    {
+        "Title": "Billboard",
+        "Cost": 5000,
+        "Pollution": "0%\/h",
+        "Size": "9x9",
+        "Tier": 1
+    },
+    {
+        "Title": "Blast Furnace",
+        "Cost": 60000,
+        "Pollution": "0.216%\/hr",
+        "Size": "8x8",
+        "Tier": 3
+    },
+    {
+        "Title": "Blast Furnace MK2",
+        "Cost": 5000000,
+        "Pollution": "0.36%\/hr",
+        "Size": "16x16",
+        "Tier": 3
+    },
+    {
+        "Title": "Boiler",
+        "Cost": 900,
+        "Pollution": "0%\/h",
+        "Size": "8x6",
+        "Tier": 2
+    },
+    {
+        "Title": "Bottling Plant",
+        "Cost": 100000,
+        "Pollution": "0%\/hr",
+        "Size": "8x6",
+        "Tier": 3
+    },
+    {
+        "Title": "Breaker",
+        "Cost": 8000,
+        "Pollution": "0%\/h",
+        "Size": "2x1",
+        "Tier": 2
+    },
+    {
+        "Title": "Breaker Box",
+        "Cost": 75000,
+        "Pollution": "0%\/h",
+        "Size": "3x3",
+        "Tier": 3
+    },
+    {
+        "Title": "Candy Cane Tree",
+        "Cost": 75,
+        "Pollution": "0%\/hr",
+        "Size": "4x4",
+        "Tier": 1
+    },
+    {
+        "Title": "Cannon Barrel",
+        "Cost": 100000,
+        "Pollution": "0%\/hr",
+        "Size": "32x8",
+        "Tier": 4
+    },
+    {
+        "Title": "Cat Assembler",
+        "Cost": 16180339,
+        "Pollution": "0%\/h",
+        "Size": "5x5",
+        "Tier": 4
+    },
+    {
+        "Title": "Chemical Reactor",
+        "Cost": 750000,
+        "Pollution": "1.62%\/hr",
+        "Size": "10x10",
+        "Tier": 3
+    },
+    {
+        "Title": "Christmas Tree",
+        "Cost": 80,
+        "Pollution": "0%\/hr",
+        "Size": "4x4",
+        "Tier": 1
+    },
+    {
+        "Title": "Classic Tree",
+        "Cost": 80,
+        "Pollution": "0%\/hr",
+        "Size": "4x4",
+        "Tier": 1
+    },
+    {
+        "Title": "Coal Drill",
+        "Cost": 50,
+        "Pollution": "0.864%\/hr",
+        "Size": "6x2",
+        "Tier": 1
+    },
+    {
+        "Title": "Coal Generator",
+        "Cost": 160,
+        "Pollution": "0.27%\/h",
+        "Size": "4x4",
+        "Tier": 1
+    },
+    {
+        "Title": "Coal Liquefaction Plant",
+        "Cost": 750000,
+        "Pollution": "6.48%\/h",
+        "Size": "20x20",
+        "Tier": 3
+    },
+    {
+        "Title": "Coal Power Plant",
+        "Cost": 10001984,
+        "Pollution": "0%\/h",
+        "Size": "100x42",
+        "Tier": 4
+    },
+    {
+        "Title": "Color LED",
+        "Cost": 3000,
+        "Pollution": "0%\/hr",
+        "Size": "1x1",
+        "Tier": 1
+    },
+    {
+        "Title": "Compact Coal Power Plant",
+        "Cost": 550,
+        "Pollution": "0.821%\/h",
+        "Size": "8x6",
+        "Tier": 1
+    },
+    {
+        "Title": "Condenser",
+        "Cost": 75000,
+        "Pollution": "0%\/hr",
+        "Size": "14x6",
+        "Tier": 3
+    },
+    {
+        "Title": "Cooling Tower",
+        "Cost": 2500000,
+        "Pollution": "0%\/h",
+        "Size": "25x25",
+        "Tier": 4
+    },
+    {
+        "Title": "Copper Drill",
+        "Cost": 190,
+        "Pollution": "0.108%\/h",
+        "Size": "6x2",
+        "Tier": 1
+    },
+    {
+        "Title": "Craft Assembler",
+        "Cost": 1000,
+        "Pollution": "0%\/h",
+        "Size": "8x4",
+        "Tier": 1
+    },
+    {
+        "Title": "Crude Oil Separator",
+        "Cost": 1500,
+        "Pollution": "0.432%\/h",
+        "Size": "10x8",
+        "Tier": 2
+    },
+    {
+        "Title": "Decoration",
+        "Cost": 40,
+        "Pollution": "0%\/hr",
+        "Size": "2x2",
+        "Tier": 1
+    },
+    {
+        "Title": "Dev Solar Panel",
+        "Cost": 0,
+        "Pollution": "0%\/h",
+        "Size": "2x2",
+        "Tier": 1
+    },
+    {
+        "Title": "Diesel Engine Air Input",
+        "Cost": 4500,
+        "Pollution": "0%\/h",
+        "Size": "2x2",
+        "Tier": 2
+    },
+    {
+        "Title": "Diesel Engine Controller",
+        "Cost": 9000,
+        "Pollution": "0%\/h",
+        "Size": "2x2",
+        "Tier": 2
+    },
+    {
+        "Title": "Diesel Engine Crankshaft",
+        "Cost": 4000,
+        "Pollution": "0%\/h",
+        "Size": "2x2",
+        "Tier": 2
+    },
+    {
+        "Title": "Diesel Engine Crankshaft Sideways",
+        "Cost": 600,
+        "Pollution": "0%\/h",
+        "Size": "2x2",
+        "Tier": 2
+    },
+    {
+        "Title": "Diesel Engine Cylinder",
+        "Cost": 4000,
+        "Pollution": "0%\/h",
+        "Size": "2x2",
+        "Tier": 2
+    },
+    {
+        "Title": "Diesel Engine Decoration",
+        "Cost": 400,
+        "Pollution": "0%\/h",
+        "Size": "2x2",
+        "Tier": 2
+    },
+    {
+        "Title": "Diesel Engine Exhaust",
+        "Cost": 4500,
+        "Pollution": "Depends",
+        "Size": "2x2",
+        "Tier": 2
+    },
+    {
+        "Title": "Diesel Engine Flywheel",
+        "Cost": 8000,
+        "Pollution": "0%\/h",
+        "Size": "6x4",
+        "Tier": 2
+    },
+    {
+        "Title": "Diesel Engine Fuel Input",
+        "Cost": 4500,
+        "Pollution": "0%\/h",
+        "Size": "2x2",
+        "Tier": 2
+    },
+    {
+        "Title": "Diesel Engine Generator",
+        "Cost": 6000,
+        "Pollution": "0%\/h",
+        "Size": "2x2",
+        "Tier": 2
+    },
+    {
+        "Title": "Diesel Engine Info Panel",
+        "Cost": 6000,
+        "Pollution": "0%\/h",
+        "Size": "2x2",
+        "Tier": 2
+    },
+    {
+        "Title": "Diesel Engine Info Panel DEBUG",
+        "Cost": 6000,
+        "Pollution": "0%\/h",
+        "Size": "2x2",
+        "Tier": 2
+    },
+    {
+        "Title": "Diesel Generator",
+        "Cost": 4500,
+        "Pollution": "0.648%\/h",
+        "Size": "8x4",
+        "Tier": 2
+    },
+    {
+        "Title": "Diesel Refinery",
+        "Cost": 1000,
+        "Pollution": "0.216%\/hr",
+        "Size": "12x10",
+        "Tier": 2
+    },
+    {
+        "Title": "Double MV Battery",
+        "Cost": 900,
+        "Pollution": "0%\/h",
+        "Size": "4x4",
+        "Tier": 2
+    },
+    {
+        "Title": "Electric Furnace",
+        "Cost": 190,
+        "Pollution": "0.158%\/hr",
+        "Size": "6x6",
+        "Tier": 1
+    },
+    {
+        "Title": "Electric Water Heater",
+        "Cost": 100020,
+        "Pollution": "0%\/h",
+        "Size": "8x5",
+        "Tier": 3
+    },
+    {
+        "Title": "Electrolysis Plant",
+        "Cost": 650000,
+        "Pollution": "0%\/hr",
+        "Size": "10x6",
+        "Tier": 4
+    },
+    {
+        "Title": "Energy Wheel",
+        "Cost": 4415,
+        "Pollution": "0%\/hr",
+        "Size": "12x9",
+        "Tier": 1
+    },
+    {
+        "Title": "Exhaust Stack",
+        "Cost": 220000,
+        "Pollution": "0-691.2%\/h",
+        "Size": "24x24",
+        "Tier": 4
+    },
+    {
+        "Title": "Fancy Coal Drill",
+        "Cost": 50,
+        "Pollution": "0.015%\/h",
+        "Size": "6x2",
+        "Tier": 1
+    },
+    {
+        "Title": "Fancy Pollution Meter",
+        "Cost": 15000,
+        "Pollution": "0%\/hr",
+        "Size": "4x3",
+        "Tier": 2
+    },
+    {
+        "Title": "Farm Harvester",
+        "Cost": 650,
+        "Pollution": "0%\/hr",
+        "Size": "8x8",
+        "Tier": 1
+    },
+    {
+        "Title": "Festive HMVT",
+        "Cost": 10001,
+        "Pollution": "0%\/h",
+        "Size": "4x2",
+        "Tier": 3
+    },
+    {
+        "Title": "Festive HV Pole",
+        "Cost": 2500000,
+        "Pollution": "0%\/h",
+        "Size": "10x10",
+        "Tier": 4
+    },
+    {
+        "Title": "Filtration Plant",
+        "Cost": 20000,
+        "Pollution": "0%\/h",
+        "Size": "8x8",
+        "Tier": 2
+    },
+    {
+        "Title": "Firebox",
+        "Cost": 550,
+        "Pollution": "1.08%\/h",
+        "Size": "6x4",
+        "Tier": 2
+    },
+    {
+        "Title": "Firework",
+        "Cost": 2000,
+        "Pollution": "0%\/h",
+        "Size": "2x2",
+        "Tier": 1
+    },
+    {
+        "Title": "Flag",
+        "Cost": 1000,
+        "Pollution": "0%\/h",
+        "Size": "4x2",
+        "Tier": 1
+    },
+    {
+        "Title": "Fluid Meter",
+        "Cost": 7500,
+        "Pollution": "0%\/hr",
+        "Size": "1x1",
+        "Tier": 1
+    },
+    {
+        "Title": "Fort-Tech Heavy Cannon MK2",
+        "Cost": 3000009,
+        "Pollution": "-1.62%\/h if not cooling",
+        "Size": "8x8",
+        "Tier": 4
+    },
+    {
+        "Title": "Foundry",
+        "Cost": 2000000,
+        "Pollution": "0.05-0.29%\/h",
+        "Size": "27x21",
+        "Tier": 4
+    },
+    {
+        "Title": "Gas Burner",
+        "Cost": 100000,
+        "Pollution": "0-0.173%\/h",
+        "Size": "10x8",
+        "Tier": 3
+    },
+    {
+        "Title": "Gas Refinery",
+        "Cost": 175000,
+        "Pollution": "0.216%\/h",
+        "Size": "7x6",
+        "Tier": 3
+    },
+    {
+        "Title": "Gasoline Generator",
+        "Cost": 900,
+        "Pollution": "0.648%\/h",
+        "Size": "2x2",
+        "Tier": 2
+    },
+    {
+        "Title": "Geothermal Well",
+        "Cost": 1500,
+        "Pollution": "0%\/h",
+        "Size": "8x5",
+        "Tier": 2
+    },
+    {
+        "Title": "Gold Acid Refinery",
+        "Cost": 1000000,
+        "Pollution": "0.216%\/hr",
+        "Size": "18x10",
+        "Tier": 3
+    },
+    {
+        "Title": "Gold Battery",
+        "Cost": 30000,
+        "Pollution": "0%\/hr",
+        "Size": "4x2",
+        "Tier": 3
+    },
+    {
+        "Title": "Gold Drill",
+        "Cost": 25000,
+        "Pollution": "0.2%\/h",
+        "Size": "8x3",
+        "Tier": 2
+    },
+    {
+        "Title": "Gold Fluid Storage Silo",
+        "Cost": 100000,
+        "Pollution": "0%\/h",
+        "Size": "4x4",
+        "Tier": 3
+    },
+    {
+        "Title": "Gold Fluid Storage Silo Gift",
+        "Cost": 100000,
+        "Pollution": "0%\/hr",
+        "Size": "4x4",
+        "Tier": 3
+    },
+    {
+        "Title": "Gold Item Storage Silo",
+        "Cost": 100000,
+        "Pollution": "0%\/hr",
+        "Size": "4x4",
+        "Tier": 3
+    },
+    {
+        "Title": "Gold Item Storage Silo Gift",
+        "Cost": 100000,
+        "Pollution": "0%\/h",
+        "Size": "4x4",
+        "Tier": 3
+    },
+    {
+        "Title": "Grinder",
+        "Cost": 10000,
+        "Pollution": "0%\/h",
+        "Size": "6x4",
+        "Tier": 2
+    },
+    {
+        "Title": "Hand Crank",
+        "Cost": 100,
+        "Pollution": "0%\/h",
+        "Size": "2x2",
+        "Tier": 1
+    },
+    {
+        "Title": "Hand Crank MK2",
+        "Cost": 200000,
+        "Pollution": "0%\/h",
+        "Size": "8x8",
+        "Tier": 1
+    },
+    {
+        "Title": "Hand Pump",
+        "Cost": 250,
+        "Pollution": "0%\/h",
+        "Size": "2x2",
+        "Tier": 1
+    },
+    {
+        "Title": "Heat Exchanger",
+        "Cost": 2718281,
+        "Pollution": "0%\/h",
+        "Size": "7x7",
+        "Tier": 4
+    },
+    {
+        "Title": "High Pressure Turbine",
+        "Cost": 1000000,
+        "Pollution": "0%\/h",
+        "Size": "12x12",
+        "Tier": 4
+    },
+    {
+        "Title": "HMVT",
+        "Cost": 10000,
+        "Pollution": "0%\/h",
+        "Size": "4x2",
+        "Tier": 3
+    },
+    {
+        "Title": "Hot Water Pump",
+        "Cost": 0,
+        "Pollution": "0%\/h",
+        "Size": "4x4",
+        "Tier": 1
+    },
+    {
+        "Title": "Huge Decoration",
+        "Cost": 40,
+        "Pollution": "0%\/h",
+        "Size": "6x6",
+        "Tier": 1
+    },
+    {
+        "Title": "Huge Spotlight",
+        "Cost": 15000,
+        "Pollution": "0%\/hr",
+        "Size": "6x6",
+        "Tier": 1
+    },
+    {
+        "Title": "Huge Truck Depot",
+        "Cost": 3200,
+        "Pollution": "0.135%\/hr",
+        "Size": "13x4",
+        "Tier": 3
+    },
+    {
+        "Title": "HV Advanced Power Rate Calculator",
+        "Cost": 750000,
+        "Pollution": "0%\/h",
+        "Size": "6x6",
+        "Tier": 4
+    },
+    {
+        "Title": "HV Battery",
+        "Cost": 17500,
+        "Pollution": "0%\/h",
+        "Size": "8x6",
+        "Tier": 3
+    },
+    {
+        "Title": "HV Battery MK2",
+        "Cost": 20000000,
+        "Pollution": "0%\/h",
+        "Size": "15x15",
+        "Tier": 4
+    },
+    {
+        "Title": "HV Pole",
+        "Cost": 2500000,
+        "Pollution": "0%\/h",
+        "Size": "10x10",
+        "Tier": 4
+    },
+    {
+        "Title": "HV Transformer",
+        "Cost": 750000,
+        "Pollution": "0%\/h",
+        "Size": "8x8",
+        "Tier": 4
+    },
+    {
+        "Title": "Hyper Depot",
+        "Cost": 16000,
+        "Pollution": "0%\/h",
+        "Size": "10x8",
+        "Tier": 1
+    },
+    {
+        "Title": "Igloo Farm Controller",
+        "Cost": 750,
+        "Pollution": "0%\/hr",
+        "Size": "4x4",
+        "Tier": 1
+    },
+    {
+        "Title": "Incinerator",
+        "Cost": 5000,
+        "Pollution": "0.18%\/h",
+        "Size": "2x2",
+        "Tier": 2
+    },
+    {
+        "Title": "Inclined Light",
+        "Cost": 40,
+        "Pollution": "0%\/hr",
+        "Size": "1x1",
+        "Tier": 1
+    },
+    {
+        "Title": "Inclined Light2",
+        "Cost": 40,
+        "Pollution": "0%\/hr",
+        "Size": "1x1",
+        "Tier": 1
+    },
+    {
+        "Title": "Industrial Diesel Refinery",
+        "Cost": 150000,
+        "Pollution": "0.32%\/r",
+        "Size": "8x5",
+        "Tier": 3
+    },
+    {
+        "Title": "Industrial Drill",
+        "Cost": 100000,
+        "Pollution": "0%\/h",
+        "Size": "10x10",
+        "Tier": 3
+    },
+    {
+        "Title": "Industrial Electric Furnace",
+        "Cost": 1000000,
+        "Pollution": "0.158%\/hr",
+        "Size": "12x12",
+        "Tier": 3
+    },
+    {
+        "Title": "Industrial Firebox",
+        "Cost": 250000,
+        "Pollution": "1.8%\/h",
+        "Size": "9x4",
+        "Tier": 3
+    },
+    {
+        "Title": "Industrial HV Battery",
+        "Cost": 25000,
+        "Pollution": "0%\/hr",
+        "Size": "9x8",
+        "Tier": 3
+    },
+    {
+        "Title": "Industrial Oil Separator",
+        "Cost": 150000,
+        "Pollution": "0.32%\/hr",
+        "Size": "8x8",
+        "Tier": 3
+    },
+    {
+        "Title": "Industrial Press",
+        "Cost": 150000,
+        "Pollution": "0%\/hr",
+        "Size": "4x2",
+        "Tier": 3
+    },
+    {
+        "Title": "Industrial Roller",
+        "Cost": 150000,
+        "Pollution": "0%\/h",
+        "Size": "4x2",
+        "Tier": 3
+    },
+    {
+        "Title": "Industrial Sawmill",
+        "Cost": 75000,
+        "Pollution": "0%\/h",
+        "Size": "14x8",
+        "Tier": 3
+    },
+    {
+        "Title": "Ingot Molder",
+        "Cost": 150,
+        "Pollution": "0%\/h",
+        "Size": "4x2",
+        "Tier": 1
+    },
+    {
+        "Title": "Intermediate Pressure Turbine",
+        "Cost": 500000,
+        "Pollution": "0%\/h",
+        "Size": "14x12",
+        "Tier": 4
+    },
+    {
+        "Title": "Iron Drill",
+        "Cost": 350,
+        "Pollution": "0.432%\/h",
+        "Size": "6x2",
+        "Tier": 2
+    },
+    {
+        "Title": "Item Dump",
+        "Cost": 500,
+        "Pollution": "Depends",
+        "Size": "2x2",
+        "Tier": 2
+    },
+    {
+        "Title": "Item Meter",
+        "Cost": 7500,
+        "Pollution": "0%\/hr",
+        "Size": "1x1",
+        "Tier": 1
+    },
+    {
+        "Title": "Large Diesel Engine",
+        "Cost": 1000000,
+        "Pollution": "0.648-0.432%\/h",
+        "Size": "14x8",
+        "Tier": 3
+    },
+    {
+        "Title": "Large Flag",
+        "Cost": 5000,
+        "Pollution": "0%\/hr",
+        "Size": "2x2",
+        "Tier": 1
+    },
+    {
+        "Title": "Large Liquid Truck Depot",
+        "Cost": 50000,
+        "Pollution": "0.48%\/h",
+        "Size": "23x8",
+        "Tier": 3
+    },
+    {
+        "Title": "Large Pumpjack",
+        "Cost": 120000,
+        "Pollution": "1.44%\/h",
+        "Size": "20x8",
+        "Tier": 3
+    },
+    {
+        "Title": "Large Turbine",
+        "Cost": 4000,
+        "Pollution": "0%\/h",
+        "Size": "5x4",
+        "Tier": 2
+    },
+    {
+        "Title": "Lathe",
+        "Cost": 5000000,
+        "Pollution": "0%\/h",
+        "Size": "17x8",
+        "Tier": 4
+    },
+    {
+        "Title": "Light",
+        "Cost": 40,
+        "Pollution": "0%\/hr",
+        "Size": "1x1",
+        "Tier": 1
+    },
+    {
+        "Title": "Light2",
+        "Cost": 40,
+        "Pollution": "0%\/hr",
+        "Size": "1x1",
+        "Tier": 1
+    },
+    {
+        "Title": "Lightning Rod",
+        "Cost": 75000,
+        "Pollution": "0%\/h",
+        "Size": "9x9",
+        "Tier": 3
+    },
+    {
+        "Title": "Liquid Boiler",
+        "Cost": 900,
+        "Pollution": "0.184%\/hr",
+        "Size": "6x4",
+        "Tier": 2
+    },
+    {
+        "Title": "Liquid Burner",
+        "Cost": 1000,
+        "Pollution": "Depends",
+        "Size": "2x2",
+        "Tier": 2
+    },
+    {
+        "Title": "Liquid Dump",
+        "Cost": 500,
+        "Pollution": "Depends",
+        "Size": "2x2",
+        "Tier": 2
+    },
+    {
+        "Title": "Liquid Truck Depot",
+        "Cost": 500,
+        "Pollution": "0.045%\/h",
+        "Size": "16x8",
+        "Tier": 2
+    },
+    {
+        "Title": "Lithium Brine Extractor",
+        "Cost": 100000,
+        "Pollution": "0%\/h",
+        "Size": "18x18",
+        "Tier": 3
+    },
+    {
+        "Title": "Lithium Ore Drill",
+        "Cost": 250000,
+        "Pollution": "0%\/h",
+        "Size": "10x4",
+        "Tier": 3
+    },
+    {
+        "Title": "LNG Plant",
+        "Cost": 250000,
+        "Pollution": "0%\/hr",
+        "Size": "11x7",
+        "Tier": 3
+    },
+    {
+        "Title": "Logic Adder",
+        "Cost": 50000,
+        "Pollution": "0%\/h",
+        "Size": "2x2",
+        "Tier": 1
+    },
+    {
+        "Title": "Logic Assembler",
+        "Cost": 25000000,
+        "Pollution": "0%\/hr",
+        "Size": "22x12",
+        "Tier": 4
+    },
+    {
+        "Title": "Logic Breaker",
+        "Cost": 7500,
+        "Pollution": "0%\/hr",
+        "Size": "3x2",
+        "Tier": 1
+    },
+    {
+        "Title": "Logic Button",
+        "Cost": 5000,
+        "Pollution": "0%\/hr",
+        "Size": "2x2",
+        "Tier": 1
+    },
+    {
+        "Title": "Logic Clock",
+        "Cost": 4000,
+        "Pollution": "0%\/hr",
+        "Size": "2x2",
+        "Tier": 1
+    },
+    {
+        "Title": "Logic Dabble",
+        "Cost": 50000,
+        "Pollution": "0%\/hr",
+        "Size": "4x4",
+        "Tier": 1
+    },
+    {
+        "Title": "Logic Delay",
+        "Cost": 2000,
+        "Pollution": "0%\/h",
+        "Size": "1x1",
+        "Tier": 1
+    },
+    {
+        "Title": "Logic Fluid Pipe Valve",
+        "Cost": 7500,
+        "Pollution": "0%\/h",
+        "Size": "2x2",
+        "Tier": 1
+    },
+    {
+        "Title": "Logic Item Pipe Valve",
+        "Cost": 7500,
+        "Pollution": "0%\/hr",
+        "Size": "2x2",
+        "Tier": 1
+    },
+    {
+        "Title": "Logic Knot",
+        "Cost": 10000,
+        "Pollution": "0%\/hr",
+        "Size": "1x1",
+        "Tier": 1
+    },
+    {
+        "Title": "Logic Memory",
+        "Cost": 10000,
+        "Pollution": "0%\/h",
+        "Size": "2x2",
+        "Tier": 1
+    },
+    {
+        "Title": "Logic Pole",
+        "Cost": 1000,
+        "Pollution": "0%\/h",
+        "Size": "2x2",
+        "Tier": 1
+    },
+    {
+        "Title": "Logic Pulse",
+        "Cost": 2000,
+        "Pollution": "0%\/hr",
+        "Size": "1x1",
+        "Tier": 1
+    },
+    {
+        "Title": "Logic Relay",
+        "Cost": 12500,
+        "Pollution": "0%\/h",
+        "Size": "2x2",
+        "Tier": 1
+    },
+    {
+        "Title": "Logic Switch",
+        "Cost": 2500,
+        "Pollution": "0%\/h",
+        "Size": "2x2",
+        "Tier": 1
+    },
+    {
+        "Title": "Low Pressure Turbine",
+        "Cost": 1000000,
+        "Pollution": "0%\/h",
+        "Size": "14x12",
+        "Tier": 4
+    },
+    {
+        "Title": "LV Pole",
+        "Cost": 5,
+        "Pollution": "0%\/h",
+        "Size": "2x2",
+        "Tier": 1
+    },
+    {
+        "Title": "Medium Fluid Storage Silo",
+        "Cost": 500,
+        "Pollution": "0%\/hr",
+        "Size": "4x4",
+        "Tier": 2
+    },
+    {
+        "Title": "Medium Item Storage Silo",
+        "Cost": 500,
+        "Pollution": "0%\/hr",
+        "Size": "4x4",
+        "Tier": 2
+    },
+    {
+        "Title": "Metal Sign",
+        "Cost": 900,
+        "Pollution": "0%\/hr",
+        "Size": "2x2",
+        "Tier": 1
+    },
+    {
+        "Title": "Mineshaft Drill",
+        "Cost": 1100000,
+        "Pollution": "0.02%\/h",
+        "Size": "14x14",
+        "Tier": 4
+    },
+    {
+        "Title": "MV Battery",
+        "Cost": 240,
+        "Pollution": "0%\/h",
+        "Size": "4x2",
+        "Tier": 2
+    },
+    {
+        "Title": "MV Pole",
+        "Cost": 80,
+        "Pollution": "0%\/h",
+        "Size": "4x2",
+        "Tier": 2
+    },
+    {
+        "Title": "NAND Gate",
+        "Cost": 5000,
+        "Pollution": "0%\/hr",
+        "Size": "2x2",
+        "Tier": 1
+    },
+    {
+        "Title": "Natural Gas Well",
+        "Cost": 60000,
+        "Pollution": "0.432%\/h",
+        "Size": "12x12",
+        "Tier": 3
+    },
+    {
+        "Title": "NOR Gate",
+        "Cost": 5000,
+        "Pollution": "0%\/hr",
+        "Size": "2x2",
+        "Tier": 1
+    },
+    {
+        "Title": "NOT Gate",
+        "Cost": 1250,
+        "Pollution": "0%\/hr",
+        "Size": "2x2",
+        "Tier": 1
+    },
+    {
+        "Title": "OG Oil Rig",
+        "Cost": 1200,
+        "Pollution": "0.0216%\/h",
+        "Size": "8x2",
+        "Tier": 2
+    },
+    {
+        "Title": "OG Research Station",
+        "Cost": 75,
+        "Pollution": "0%\/hr",
+        "Size": "8x8",
+        "Tier": 1
+    },
+    {
+        "Title": "Oil Fracking Tower",
+        "Cost": 500000,
+        "Pollution": "0.0013%\/h",
+        "Size": "6x6",
+        "Tier": 3
+    },
+    {
+        "Title": "Oil Rig",
+        "Cost": 1200,
+        "Pollution": "0.0288%\/h",
+        "Size": "8x2",
+        "Tier": 2
+    },
+    {
+        "Title": "OR Gate",
+        "Cost": 2000,
+        "Pollution": "0%\/hr",
+        "Size": "2x2",
+        "Tier": 1
+    },
+    {
+        "Title": "Oxidation Plant",
+        "Cost": 200000,
+        "Pollution": "0%\/hr",
+        "Size": "8x6",
+        "Tier": 3
+    },
+    {
+        "Title": "Paper Mill",
+        "Cost": 80000,
+        "Pollution": "0%\/hr",
+        "Size": "12x6",
+        "Tier": 2
+    },
+    {
+        "Title": "Plastic Molding Machine",
+        "Cost": 100000,
+        "Pollution": null,
+        "Size": "4x4",
+        "Tier": 3
+    },
+    {
+        "Title": "Plastic Production Facility",
+        "Cost": 100000,
+        "Pollution": "0.432%\/hr",
+        "Size": "15x8",
+        "Tier": 3
+    },
+    {
+        "Title": "Plastic Refinery",
+        "Cost": 100000,
+        "Pollution": "0.216%\/hr",
+        "Size": "14x10",
+        "Tier": 3
+    },
+    {
+        "Title": "Polisher",
+        "Cost": 1200000,
+        "Pollution": "0%\/h",
+        "Size": "28x12",
+        "Tier": 4
+    },
+    {
+        "Title": "Pollution Gate",
+        "Cost": 7500,
+        "Pollution": "0%\/hr",
+        "Size": "2x2",
+        "Tier": 1
+    },
+    {
+        "Title": "Pollution Meter",
+        "Cost": 5000,
+        "Pollution": "0%\/h",
+        "Size": "4x4",
+        "Tier": 2
+    },
+    {
+        "Title": "Power Control",
+        "Cost": 50000,
+        "Pollution": "0%\/h",
+        "Size": "11x9",
+        "Tier": 3
+    },
+    {
+        "Title": "Power Dump",
+        "Cost": 25000,
+        "Pollution": "0%\/hr",
+        "Size": "5x4",
+        "Tier": 3
+    },
+    {
+        "Title": "Power Rate Calculator",
+        "Cost": 120,
+        "Pollution": "0%\/h",
+        "Size": "4x2",
+        "Tier": 2
+    },
+    {
+        "Title": "Power Rate Calculator2",
+        "Cost": 7000,
+        "Pollution": "0%\/h",
+        "Size": "6x6",
+        "Tier": 3
+    },
+    {
+        "Title": "Power Rate Calculator3",
+        "Cost": 5000000,
+        "Pollution": "0%\/h",
+        "Size": "6x6",
+        "Tier": 4
+    },
+    {
+        "Title": "Precision Assembler",
+        "Cost": 1000000,
+        "Pollution": "0%\/hr",
+        "Size": "12x6",
+        "Tier": 4
+    },
+    {
+        "Title": "Presents Decoration",
+        "Cost": 40,
+        "Pollution": "0%\/hr",
+        "Size": "8x8",
+        "Tier": 1
+    },
+    {
+        "Title": "Presents Packing Machine",
+        "Cost": 10000,
+        "Pollution": "0%\/hr",
+        "Size": "9x7",
+        "Tier": 2
+    },
+    {
+        "Title": "Press",
+        "Cost": 409,
+        "Pollution": "0%\/h",
+        "Size": "4x2",
+        "Tier": 1
+    },
+    {
+        "Title": "Press MK2",
+        "Cost": 333333,
+        "Pollution": "0%\/h",
+        "Size": "15x10",
+        "Tier": 3
+    },
+    {
+        "Title": "Pressurized Water Filter",
+        "Cost": 350000,
+        "Pollution": "0%\/hr",
+        "Size": "9x6",
+        "Tier": 3
+    },
+    {
+        "Title": "Real Dev Solar Panel",
+        "Cost": 5000,
+        "Pollution": "0%\/h",
+        "Size": "2x2",
+        "Tier": 4
+    },
+    {
+        "Title": "Research Station1",
+        "Cost": 75,
+        "Pollution": "0%\/hr",
+        "Size": "8x8",
+        "Tier": 1
+    },
+    {
+        "Title": "Research Station2",
+        "Cost": 2000,
+        "Pollution": "0%\/hr",
+        "Size": "16x10",
+        "Tier": 3
+    },
+    {
+        "Title": "Residue Refinery",
+        "Cost": 200000,
+        "Pollution": "0%\/hr",
+        "Size": "7x5",
+        "Tier": 4
+    },
+    {
+        "Title": "Resistor",
+        "Cost": 50000,
+        "Pollution": "0%\/hr",
+        "Size": "2x1",
+        "Tier": 1
+    },
+    {
+        "Title": "Roller",
+        "Cost": 411,
+        "Pollution": "0%\/h",
+        "Size": "4x2",
+        "Tier": 1
+    },
+    {
+        "Title": "Roller MK2",
+        "Cost": 150000,
+        "Pollution": "0%\/h",
+        "Size": "15x12",
+        "Tier": 3
+    },
+    {
+        "Title": "RTG",
+        "Cost": 100000,
+        "Pollution": "0%\/hr",
+        "Size": "2x2",
+        "Tier": 4
+    },
+    {
+        "Title": "Rusty Battery",
+        "Cost": 100,
+        "Pollution": "0%\/h",
+        "Size": "2x2",
+        "Tier": 1
+    },
+    {
+        "Title": "Sand Excavator",
+        "Cost": 10000,
+        "Pollution": "0%\/h",
+        "Size": "9x8",
+        "Tier": 3
+    },
+    {
+        "Title": "Sawmill",
+        "Cost": 800,
+        "Pollution": "0%\/h",
+        "Size": "8x4",
+        "Tier": 1
+    },
+    {
+        "Title": "Scrubber",
+        "Cost": 30000,
+        "Pollution": "-3.24%\/h ([[Water]])&lt;br&gt;-3.57%\/h ([[Filtered Water]])&lt;br&gt;-6.29\/h ([[Distilled Water]])&lt;br&gt;+6.48%\/h ([[Residue]])",
+        "Size": "8x8",
+        "Tier": 3
+    },
+    {
+        "Title": "Seven Segment Display",
+        "Cost": 35000,
+        "Pollution": "0%\/hr",
+        "Size": "3x2",
+        "Tier": 1
+    },
+    {
+        "Title": "Sign",
+        "Cost": 900,
+        "Pollution": "0%\/h",
+        "Size": "2x2",
+        "Tier": 1
+    },
+    {
+        "Title": "Sleigh Depot",
+        "Cost": 1000,
+        "Pollution": "0.00864%\/h",
+        "Size": "10x8",
+        "Tier": 1
+    },
+    {
+        "Title": "Small Fluid Storage Silo",
+        "Cost": 100,
+        "Pollution": "0%\/hr",
+        "Size": "2x2",
+        "Tier": 1
+    },
+    {
+        "Title": "Small Item Storage Silo",
+        "Cost": 100,
+        "Pollution": "0%\/h",
+        "Size": "2x2",
+        "Tier": 1
+    },
+    {
+        "Title": "Small MV Pole",
+        "Cost": 40,
+        "Pollution": "0%\/h",
+        "Size": "2x2",
+        "Tier": 2
+    },
+    {
+        "Title": "Small Plate",
+        "Cost": 40,
+        "Pollution": "0%\/hr",
+        "Size": "1x1",
+        "Tier": 1
+    },
+    {
+        "Title": "Small Turbine",
+        "Cost": 2500,
+        "Pollution": "0%\/hr",
+        "Size": "4x2",
+        "Tier": 2
+    },
+    {
+        "Title": "Snow Globe",
+        "Cost": 5000,
+        "Pollution": "0%\/h",
+        "Size": "5x5",
+        "Tier": 1
+    },
+    {
+        "Title": "Snowman",
+        "Cost": 4000,
+        "Pollution": "0%\/h",
+        "Size": "6x6",
+        "Tier": 1
+    },
+    {
+        "Title": "Soil Excavator",
+        "Cost": 250000,
+        "Pollution": "0%\/h",
+        "Size": "10x5",
+        "Tier": 3
+    },
+    {
+        "Title": "Solar Farm1",
+        "Cost": 200000,
+        "Pollution": "0%\/h",
+        "Size": "20x18",
+        "Tier": 3
+    },
+    {
+        "Title": "Solar Heater",
+        "Cost": 1500,
+        "Pollution": "0%\/hr",
+        "Size": "7x7",
+        "Tier": 2
+    },
+    {
+        "Title": "Solar Panel",
+        "Cost": 80,
+        "Pollution": "0%\/h",
+        "Size": "2x2",
+        "Tier": 1
+    },
+    {
+        "Title": "Solar Panel2",
+        "Cost": 1500,
+        "Pollution": "0%\/h",
+        "Size": "4x2",
+        "Tier": 2
+    },
+    {
+        "Title": "Solar Panel3",
+        "Cost": 5000,
+        "Pollution": "0%\/h",
+        "Size": "4x4",
+        "Tier": 3
+    },
+    {
+        "Title": "Spotlight",
+        "Cost": 900,
+        "Pollution": "0%\/hr",
+        "Size": "2x2",
+        "Tier": 1
+    },
+    {
+        "Title": "Steam Condenser",
+        "Cost": 2400000,
+        "Pollution": "0%\/hr",
+        "Size": "26x8",
+        "Tier": 4
+    },
+    {
+        "Title": "Steam Cracking Plant",
+        "Cost": 150000,
+        "Pollution": "0.432%\/hr",
+        "Size": "8x8",
+        "Tier": 3
+    },
+    {
+        "Title": "Steam Turbine",
+        "Cost": 40,
+        "Pollution": "0%\/h",
+        "Size": "4x2",
+        "Tier": 1
+    },
+    {
+        "Title": "Tall Light",
+        "Cost": 500,
+        "Pollution": "0%\/h",
+        "Size": "1x1",
+        "Tier": 1
+    },
+    {
+        "Title": "Time Gate",
+        "Cost": 5000,
+        "Pollution": "0%\/hr",
+        "Size": "2x2",
+        "Tier": 1
+    },
+    {
+        "Title": "Time Tracker",
+        "Cost": 120,
+        "Pollution": "0%\/hr",
+        "Size": "2x2",
+        "Tier": 1
+    },
+    {
+        "Title": "Tree",
+        "Cost": 80,
+        "Pollution": "0%\/h",
+        "Size": "4x4",
+        "Tier": 1
+    },
+    {
+        "Title": "Tree Farm Controller",
+        "Cost": 750,
+        "Pollution": "0%\/h",
+        "Size": "4x4",
+        "Tier": 1
+    },
+    {
+        "Title": "Tree Farm Output",
+        "Cost": 200,
+        "Pollution": "Oak Log",
+        "Size": "4x4",
+        "Tier": 1
+    },
+    {
+        "Title": "Tree Farm Sprinkler",
+        "Cost": 200,
+        "Pollution": "0%\/h",
+        "Size": "4x4",
+        "Tier": 1
+    },
+    {
+        "Title": "Tree Farm Water Tank",
+        "Cost": 500,
+        "Pollution": "0%\/hr",
+        "Size": "10x4",
+        "Tier": 1
+    },
+    {
+        "Title": "Tree Scrubber",
+        "Cost": 25000,
+        "Pollution": "-3.88%\/h (at 0% [[Pollution]])",
+        "Size": "9x8",
+        "Tier": 1
+    },
+    {
+        "Title": "Trommel",
+        "Cost": 1000000,
+        "Pollution": "0%\/h",
+        "Size": "12x6",
+        "Tier": 3
+    },
+    {
+        "Title": "Truck Depot",
+        "Cost": 100,
+        "Pollution": "0.0005% per sale&lt;br&gt;0.06%\/1hr in game&lt;br&gt;1.44%\/hr",
+        "Size": "10x8",
+        "Tier": 1
+    },
+    {
+        "Title": "Turbine Generator",
+        "Cost": 5000000,
+        "Pollution": "0%\/h",
+        "Size": "22x12",
+        "Tier": 4
+    },
+    {
+        "Title": "Turbine Input",
+        "Cost": 150000,
+        "Pollution": "0%\/h",
+        "Size": "12x6",
+        "Tier": 4
+    },
+    {
+        "Title": "Turbine Output",
+        "Cost": 150000,
+        "Pollution": "0%\/h",
+        "Size": "12x6",
+        "Tier": 4
+    },
+    {
+        "Title": "Uranium Drill",
+        "Cost": 3500000,
+        "Pollution": "2.16%\/h",
+        "Size": "6x2",
+        "Tier": 2
+    },
+    {
+        "Title": "Van Depot",
+        "Cost": 160,
+        "Pollution": "0.00075%\/sale",
+        "Size": "10x8",
+        "Tier": 2
+    },
+    {
+        "Title": "Vertical Heat Exchanger",
+        "Cost": 2718281,
+        "Pollution": "0%\/h",
+        "Size": "7x7",
+        "Tier": 4
+    },
+    {
+        "Title": "Wall",
+        "Cost": 661,
+        "Pollution": "0%\/hr",
+        "Size": "2x1",
+        "Tier": 1
+    },
+    {
+        "Title": "Water Pump",
+        "Cost": 60,
+        "Pollution": "0%\/h",
+        "Size": "4x4",
+        "Tier": 1
+    },
+    {
+        "Title": "Water Pump2",
+        "Cost": 6000,
+        "Pollution": "0%\/h",
+        "Size": "4x4",
+        "Tier": 2
+    },
+    {
+        "Title": "Water Treatment Plant",
+        "Cost": 700001,
+        "Pollution": "0%\/hr",
+        "Size": "30x30",
+        "Tier": 4
+    },
+    {
+        "Title": "Weird Decoration",
+        "Cost": 6666666,
+        "Pollution": "0%\/h",
+        "Size": "2x2",
+        "Tier": 2
+    },
+    {
+        "Title": "White LED",
+        "Cost": 1000,
+        "Pollution": "0%\/hr",
+        "Size": "1x1",
+        "Tier": 1
+    },
+    {
+        "Title": "Wide Gold Item Storage Silo",
+        "Cost": 100000,
+        "Pollution": "0%\/h",
+        "Size": "8x8",
+        "Tier": 3
+    },
+    {
+        "Title": "Wind Turbine1",
+        "Cost": 400,
+        "Pollution": "0%\/h",
+        "Size": "2x2",
+        "Tier": 1
+    },
+    {
+        "Title": "Wind Turbine2",
+        "Cost": 1785,
+        "Pollution": "0%\/h",
+        "Size": "4x4",
+        "Tier": 2
+    },
+    {
+        "Title": "Wind Turbine3",
+        "Cost": 100000,
+        "Pollution": "0%\/h",
+        "Size": "10x10",
+        "Tier": 3
+    },
+    {
+        "Title": "Wind Turbine4",
+        "Cost": 200000,
+        "Pollution": "0%\/hr",
+        "Size": "18x18",
+        "Tier": 3
+    },
+    {
+        "Title": "XOR Gate",
+        "Cost": 2500,
+        "Pollution": "0%\/hr",
+        "Size": "2x2",
+        "Tier": 1
+    }
+]
